@@ -1,5 +1,5 @@
 # tmdb
-Demo: https://rojusr.github.io/tmdb/movies
+Demo: https://rojusr.github.io/tmdb
 
 ## Project setup
 ```
