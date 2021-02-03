@@ -1,0 +1,17 @@
+.vue-slider-rail {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.vue-slider-process {
+  background-color: #03a9f4;
+}
+
+.vue-slider-dot-handle {
+  background-color: #2f5b84;
+}
+
+.vue-slider-dot-handle::after {
+  background-color: rgba(3, 169, 244, 0.16);
+  width: 180%;
+  height: 180%;
+}
